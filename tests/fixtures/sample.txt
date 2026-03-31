@@ -1,0 +1,8 @@
+CVT - File Format Converter
+
+A universal converter for AI agents and humans.
+
+Features:
+- Convert between dozens of formats
+- Batch conversion support
+- Modular backend system

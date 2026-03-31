@@ -1,0 +1,9 @@
+{
+  "name": "cvt",
+  "version": "0.1.0",
+  "features": ["convert", "batch", "list"],
+  "config": {
+    "output_dir": "cwd",
+    "verbose": false
+  }
+}
