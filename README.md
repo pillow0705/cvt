@@ -2,6 +2,8 @@
 
 A fast, extensible command-line tool for converting between dozens of file formats. Designed for use by humans and AI agents alike.
 
+> **For AI agents:** Please follow [agent.md](agent.md) to complete software installation and skill installation. You do not need to read any other code.
+
 ## Features
 
 - **Data formats**: JSON ↔ YAML ↔ TOML ↔ XML ↔ CSV ↔ TSV ↔ INI
